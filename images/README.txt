@@ -4,12 +4,15 @@ St. Mary's Parents' Association — images folder
 FILES ALREADY IN USE
   logo.png, favicon.png      The Parents' Association crest.
   christmas-cards.jpg        The Christmas cards & keepsakes poster.
+  enfield.jpg, gallery-2.jpg, enfield-harbour.jpg
+                             Photos of the Royal Canal at Enfield by Scaramanga731, CC BY-SA 4.0, from
+                             Wikimedia Commons (credit is in every page footer - keep it if you reuse them).
+                             Replace enfield.jpg with your own photo at any time.
   art-school.svg, art-town.svg, art-blank.svg
                              Illustrated stand-ins shown wherever a real photo has not been added yet.
 
 ADD YOUR OWN PHOTOS (just drop them in this folder — no code changes needed)
   school.jpg      Home page and "The school" page: the school building / grounds
-  enfield.jpg     Home page and "The school" page: Enfield village / the Royal Canal
   gallery-1.jpg … gallery-6.jpg
                   Gallery (gallery-3 is the Christmas poster, so use 1, 2, 4, 5, 6)
 
